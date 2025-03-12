@@ -1,4 +1,4 @@
-# Readme: Projet de Relation Many-to-Many avec JPA
+# Projet de Relation Many-to-Many avec JPA
 
 ## Description
 Ce projet démontre l'implémentation d'une relation many-to-many (plusieurs à plusieurs) entre deux entités - `Student` (Étudiant) et `Course` (Cours) - en utilisant JPA (Jakarta Persistence API) avec un fournisseur EclipseLink.
